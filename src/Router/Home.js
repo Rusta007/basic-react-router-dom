@@ -13,6 +13,13 @@ function Home() {
         child routes. Together, these components help you create a navigational
         structure for your application.
       </p>
+          <p>
+        So, in simple terms, a router helps you decide what to show on your
+        website when someone clicks on links or types in different web
+        addresses. Routes are like directions, links help users move around, and
+        outlets are spaces on your webpage where the content for different
+        places can appear.
+      </p>
     </>
   );
 }
